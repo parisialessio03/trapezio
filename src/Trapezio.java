@@ -1,7 +1,7 @@
 /**
 * The Class Trapezio.
 *
-* @author Marco
+* @author Parisi alessio
 * Dichiarazione della classe Trapezio
 */
 public class Trapezio
